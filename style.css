@@ -157,7 +157,7 @@ body {
   
   /* Style the header */
   .header {
-    background-color: #f44336;
+    background-color: #3eb4f9;
     padding: 30px 40px;
     color: white;
     text-align: center;
@@ -196,6 +196,6 @@ body {
   }
   
   .addBtn:hover {
-    background-color: #bbb;
+    background-color: rgb(183, 255, 237);
   }
 /*as per w3schools.com https://www.w3schools.com/howto/howto_css_login_form_navbar.asp */
